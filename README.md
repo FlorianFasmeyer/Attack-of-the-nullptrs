@@ -2,7 +2,7 @@
 
 Attack of the nullptrs is a game created on the 22nd of January 2017 by Guillaume Noguera, Florian E. Fasmeyer, and Cédric Pahud. The game was developed as part of the C++ P2 project during our 2nd year of Computer Science.
 
-We were instructed to create a simple desktop application with buttons and visuals using C++'s famous Qt library. We complied with the requirements...
+We were instructed to create a simple desktop application with buttons and visuals using C++'s famous Qt framework. We complied with the requirements...
 
 ![A few buttons to justify our Qt project.](https://github.com/FlorianFasmeyer/Attack-of-the-nullptrs/blob/main/imgs/buttons.png)
 
