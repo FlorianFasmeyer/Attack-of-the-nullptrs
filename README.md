@@ -12,7 +12,7 @@ We were instructed to create a simple desktop application with buttons and visua
 
 ![Picture of a nasty Nullptr intended on eating you](https://github.com/FlorianFasmeyer/Attack-of-the-nullptrs/blob/main/imgs/nullptr.gif)
 
-[Listen to that music!](https://github.com/FlorianFasmeyer/Attack-of-the-nullptrs/blob/main/pouletjetemetslefeu.mp3)
+[Listen to that music! (made by Guillaume Noguera)](https://github.com/FlorianFasmeyer/Attack-of-the-nullptrs/blob/main/pouletjetemetslefeu.mp3)
 
 We created our own game engine and hand-made everything:
 
