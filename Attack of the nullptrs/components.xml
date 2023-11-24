@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>Attack of the nullptrs</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>ch.hearc.appli</Name>
+        <Pixmap></Pixmap>
+        <Title>Attack of the nullptrs</Title>
+        <Description>Un jeu developpe pour le projet P2</Description>
+        <Version>1.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2017-01-22</InstallDate>
+        <Size>60289948</Size>
+        <Dependencies></Dependencies>
+    </Package>
+</Packages>
