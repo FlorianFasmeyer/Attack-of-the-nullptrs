@@ -43,6 +43,6 @@ This game includes:
 4. Hold the up key longer to jump higher. Smaller jumps can allow you to go through very precise holes without touching the ceiling
 5. Press [SPACE] to start digging. Aim where you dig with the arrow keypads
 6. Get to the red door (upper left) to the blue door (lower right)
-7. After each new rounds, new nullptrs will spawn. nullptrs never disappear, they are, after all, they are nullptrs
+7. After each new rounds, new nullptrs will spawn. nullptrs never disappear, they are, after all, nullptrs!
 8. Play enough rounds to crash your computer by generating too many nullptrs
 9. Low-end computers will make "winning the game" easier. The end screen is just an out-of-memory error
