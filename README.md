@@ -35,3 +35,14 @@ This game includes:
 * Thrilling music
 
 [Google Doc Report (in French)](https://docs.google.com/document/d/1VTcLV2P8HV6U8FLeqMVOvjNYdaXF8jmdN7vjtiWAbsg/edit?usp=sharing)
+
+# How to play
+1. Download everything in the Attack of the nullptrs file
+2. Run AttackOfTheNullptrs.exe
+3. Use arrow keypads to move left, right and jump <- ^ ->
+4. Hold the up key longer to jump higher. Smaller jumps can allow you to go through very precise holes without touching the ceiling
+5. Press [SPACE] to start digging. Aim where you dig with the arrow keypads
+6. Get to the red door (upper left) to the blue door (lower right)
+7. After each new rounds, new nullptrs will spawn. nullptrs never disappear, they are, after all, they are nullptrs
+8. Play enough rounds to crash your computer by generating too many nullptrs
+9. Low-end computers will make "winning the game" easier. The end screen is just an out-of-memory error
