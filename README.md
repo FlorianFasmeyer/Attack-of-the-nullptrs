@@ -37,7 +37,7 @@ This game includes:
 [Google Doc Report (in French)](https://docs.google.com/document/d/1VTcLV2P8HV6U8FLeqMVOvjNYdaXF8jmdN7vjtiWAbsg/edit?usp=sharing)
 
 # How to play
-1. Download everything in the Attack of the nullptrs file
+1. Download everything in the Attack of the nullptrs folder
 2. Run AttackOfTheNullptrs.exe
 3. Use arrow keypads to move left, right and jump <- ^ ->
 4. Hold the up key longer to jump higher. Smaller jumps can allow you to go through very precise holes without touching the ceiling
